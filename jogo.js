@@ -1,5 +1,5 @@
-console.log('[DevSoutinho] Flappy Bird');
-console.log('Inscreva-se no canal :D https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbitA');
+console.log('Flappy Bird Projeto feito nos vídeos do dev Soutinho');
+console.log('Inscreva-se no canal do devSoutinho :D https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbitA');
 
 let frames = 0;
 const som_HIT = new Audio();
